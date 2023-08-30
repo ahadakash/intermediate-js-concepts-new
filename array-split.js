@@ -14,4 +14,4 @@ console.log(num);
 
 const together = num.join(" , ");
 
-console.log(together);
+console.log(together); 
